@@ -41,13 +41,24 @@ Git - https://github.com/Mosh-Fatema-Koli
 
 <h3 align="left">PROJECT:</h3>
 
+	Instasure (Troubleshooting and Maintenance)
+	Story Book (Firebase)
+	Ecommerce (Firebase & API)
+	Celebrity.SG- (With API)
+	Ecommerce Admin (With API) 
+	Workout App (With API) 
+	Weather App (With API) 
+
+
 
 <h3 align="left">JOB EXPERIENCE:</h3>
 
-Instasure Ltd;
-Programmer (Mobile App Developer)
+<h4>Instasure Ltd; 
+Programmer (Mobile App Developer)</h4>
 
 Instasure is the Insurance management software utilized by Universities ,Travels, Mobile Phone.
+
+
 ➢Designed, implemented, and tested Flutter and Dart code using Provider pattern for IOS, Android .
 
 ➢Designed and created custom features including scrolling selectors and data entries.
@@ -60,8 +71,8 @@ Instasure is the Insurance management software utilized by Universities ,Travels
 
 
 
-DS Legends Pte. Ltd;
-Internship (Mobile App Developer)
+<h4>DS Legends Pte. Ltd;
+Internship (Mobile App Developer)</h4>
 
 ➢ Designed, implemented, and tested Flutter and Dart code using Provider pattern for IOS, Android ..
 

@@ -5,14 +5,34 @@
 </p>	
 
 
-# Mosh Fatema Akhter Koli
+#                                    Mosh Fatema Akhter Koli
+
 
 <p>programmer|| Flutter App Developer</p>
 
-I am startup developer and designer. I am building some flutter apps.
+I am startup developer and Programmer. I am building some flutter apps.
+
+Email - Fatemakoli58@gmail.com.
+
+Phone – 01302607702.
+
+Present Address – House # 12, Road # 16, Adabor, Dhaka 1207.
+
+Permanent Address – vill - Parkartikpasa,P.O – Srirampur- 8601, P.S - Patuakhali Sadar Dist.-Patuakhali.
+
+LinkedIn Id - www.linkedin.com/in/moshfatema-akhter-koli-56b4881a
+
+Git - https://github.com/Mosh-Fatema-Koli
+
+<h3 align="left">SUMMARY:</h3>
+
+<p>Software engineer, B.Sc. in Computer Science and Engineering. Passionate 
+about Mobile App Development (Flutter). Looking for opportunities as flutter 
+Developer with an expert team of developers who will help advance my 
+career progression in the future.</p>
 
 
-## I am good at a few things:
+<b>I am good at a few things:</b>
 <ul>
 <li>XD Design convert to flutter</li>
 <li>Figma Design Convert to Flutter</li>
@@ -21,6 +41,56 @@ I am startup developer and designer. I am building some flutter apps.
 <li>Push Notification added/In app notification added</li>
 <li>App Publish in playstore</li>
 </ul>
+
+
+<h3 align="left">JOB EXPERIENCE:</h3>
+
+Instasure Ltd;
+Programmer (Mobile App Developer)
+
+DS Legends Pte. Ltd;
+Internship (Mobile App Developer)
+
+<h3 align="left">SKILL:</h3>
+
+Apps Development 
+
+➢ Flutter (Framework)
+
+➢ UI Design, Push /in app notification.
+
+➢ Getx, Provider, Firebase, API,
+
+➢ App Testing, Troubleshooting.
+
+➢ Publish app to play store.
+
+➢ API making by Express.js
+
+➢ Visual Studio Code, Android Studio, git
+
+ Web Development 
+ 
+➢ Django (Framework)
+
+➢ Bootstrap, JavaScript,
+
+➢ SQLite
+
+➢ Visual Studio Code, git 
+
+
+
+<h3> Programming Language </h3>
+➢ C, C++, Java, JavaScript, Python, Dart, Nodejs. 
+
+
+<h3 align="left">EDUCATION:</h3>
+<p>Bachelor of Science in CSE, Bangladesh University, Dhaka, CGPA - 3.64 (out of 4.00) </p>
+<p>Higher Secondary Certificate (H.S.C), Queens School & College, Dhaka, Science, GPA- 4.50 (out of 5.00)
+</p>
+<p>Secondary School Certificate (S.S.C), Srijanee Bidyaniketan, Patuakhali, Science, GPA: 5.00 (out of 5.00)</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

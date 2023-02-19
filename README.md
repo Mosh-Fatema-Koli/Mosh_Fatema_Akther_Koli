@@ -42,6 +42,9 @@ career progression in the future.</p>
 </ul>
 
 
+<h3 align="left">PROJECT:</h3>
+
+
 <h3 align="left">JOB EXPERIENCE:</h3>
 
 Instasure Ltd;

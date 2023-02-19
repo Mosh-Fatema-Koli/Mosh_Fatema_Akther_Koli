@@ -25,10 +25,7 @@ Git - https://github.com/Mosh-Fatema-Koli
 
 <h3 align="left">SUMMARY:</h3>
 
-<p>Software engineer, B.Sc. in Computer Science and Engineering. Passionate 
-about Mobile App Development (Flutter). Looking for opportunities as flutter 
-Developer with an expert team of developers who will help advance my 
-career progression in the future.</p>
+<p>I am a skilled Mobile Developer who has around 1 year of experience Flutter Mobile App development. Passionate about Mobile App Development (Flutter).  Looking for opportunities as flutter Developer with an expert team of developers who will help advance my career progression in the future.</p>
 
 
 <b>I am good at a few things:</b>
@@ -50,8 +47,28 @@ career progression in the future.</p>
 Instasure Ltd;
 Programmer (Mobile App Developer)
 
+Instasure is the Insurance management software utilized by Universities ,Travels, Mobile Phone.
+➢Designed, implemented, and tested Flutter and Dart code using Provider pattern for IOS, Android .
+
+➢Designed and created custom features including scrolling selectors and data entries.
+
+➢Utilized and designed custom API.
+
+➢Troubleshooting  ,push notification added
+
+➢Developed code using Dart programming 
+
+
+
 DS Legends Pte. Ltd;
 Internship (Mobile App Developer)
+
+➢ Designed, implemented, and tested Flutter and Dart code using Provider pattern for IOS, Android ..
+
+➢Utilized and designed custom API.
+
+➢Developed code using Dart programming
+
 
 <h3 align="left">SKILL:</h3>
 

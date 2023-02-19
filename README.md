@@ -10,7 +10,6 @@
 
 <p>programmer|| Flutter App Developer</p>
 
-I am startup developer and Programmer. I am building some flutter apps.
 
 Email - Fatemakoli58@gmail.com.
 
@@ -53,7 +52,7 @@ Internship (Mobile App Developer)
 
 <h3 align="left">SKILL:</h3>
 
-Apps Development 
+<h5>Apps Development </h5>
 
 ➢ Flutter (Framework)
 
@@ -69,7 +68,8 @@ Apps Development
 
 ➢ Visual Studio Code, Android Studio, git
 
- Web Development 
+
+ <h5> Web Development </h5>
  
 ➢ Django (Framework)
 
@@ -81,7 +81,7 @@ Apps Development
 
 
 
-<h3> Programming Language </h3>
+<h5> Programming Language </h5>
 ➢ C, C++, Java, JavaScript, Python, Dart, Nodejs. 
 
 

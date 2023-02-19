@@ -11,7 +11,7 @@
 <p>programmer|| Flutter App Developer</p>
 
 
-Email - Fatemakoli58@gmail.com.
+Email - fatemakoli58@gmail.com.
 
 Phone – 01302607702.
 

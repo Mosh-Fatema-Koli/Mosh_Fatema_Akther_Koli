@@ -17,7 +17,7 @@ Phone – 01302607702.
 
 Present Address – House # 12, Road # 16, Adabor, Dhaka 1207.
 
-Permanent Address – vill - Parkartikpasa,P.O – Srirampur- 8601, P.S - Patuakhali Sadar Dist.-Patuakhali.
+Permanent Address – vill - Parkartikpasa, P.O – Srirampur- 8601, P.S - Patuakhali Sadar, Dist.-Patuakhali.
 
 LinkedIn Id - www.linkedin.com/in/moshfatema-akhter-koli-56b4881a
 

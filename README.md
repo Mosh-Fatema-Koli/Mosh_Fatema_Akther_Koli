@@ -42,8 +42,9 @@ Git - https://github.com/Mosh-Fatema-Koli
 
 <h3 align="left">PROJECT:</h3>
 
-	Instasure (Troubleshooting and Maintenance)
-	Story Book (Firebase)
+➢	Instasure 
+➢ Iflex
+➢ Story Book (Firebase)
 	Ecommerce (Firebase & API)
 	Celebrity.SG- (With API)
 	Ecommerce Admin (With API) 

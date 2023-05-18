@@ -60,9 +60,9 @@ Git - https://github.com/Mosh-Fatema-Koli
 <h3 align="left">JOB EXPERIENCE:</h3>
 
 
-<h4>Instasure Ltd; </h4>
+<h3>Instasure Ltd; </h3>
   
-<hProgrammer (Mobile App Developer)
+Programmer (Mobile App Developer)
 
 
 Instasure is the Insurance management software utilized by Universities ,Travels, Mobile Phone.
@@ -80,7 +80,7 @@ Instasure is the Insurance management software utilized by Universities ,Travels
 
 
 
-<h4>DS Legends Pte. Ltd;</h4>
+<h3>DS Legends Pte. Ltd;</h3>
   
 Internship (Mobile App Developer)
 

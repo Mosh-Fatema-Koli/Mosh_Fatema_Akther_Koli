@@ -59,8 +59,10 @@ Git - https://github.com/Mosh-Fatema-Koli
 
 <h3 align="left">JOB EXPERIENCE:</h3>
 
+
 <h4>Instasure Ltd; 
 Programmer (Mobile App Developer)</h4>
+
 
 Instasure is the Insurance management software utilized by Universities ,Travels, Mobile Phone.
 
@@ -77,8 +79,9 @@ Instasure is the Insurance management software utilized by Universities ,Travels
 
 
 
-<h4>DS Legends Pte. Ltd;
-Internship (Mobile App Developer)</h4>
+<h4>DS Legends Pte. Ltd;</h4>
+  
+Internship (Mobile App Developer)
 
 ➢ Designed, implemented, and tested Flutter and Dart code using Provider pattern for IOS, Android ..
 
@@ -98,7 +101,7 @@ Internship (Mobile App Developer)</h4>
 
 ➢ UI Design ad implement user Interface 
 
-➢➢ Push /in app notification.
+➢ Push /in app notification.
 
 ➢ Getx, Provider, 
 

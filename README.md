@@ -25,7 +25,7 @@ Git - https://github.com/Mosh-Fatema-Koli
 
 <h3 align="left">SUMMARY:</h3>
 
-<p>I am a skilled Mobile Developer who has around 1 year of experience Flutter Mobile App development. Passionate about Mobile App Development (Flutter).  Looking for opportunities as flutter Developer with an expert team of developers who will help advance my career progression in the future.</p>
+<p>A Flutter developer with one years of experience, skilled in building high-quality cross-platform mobile apps and creating intuitive user interfaces. Proficient in Dart and experienced in teamwork and problem-solving. Strong communication skills, attention to detail, and a proactive approach to tasks make me a reliable and dependable member of any development team. Deep understanding of the Flutter framework and mobile app development process, with a passion for creating innovative and engaging apps. Always looking for opportunities to continue learning and growing as a developer. </p>
 
 
 <b>I am good at a few things:</b>
@@ -36,6 +36,7 @@ Git - https://github.com/Mosh-Fatema-Koli
 <li>Doing Troubleshotting on Flutter</li>
 <li>Push Notification added/In app notification added</li>
 <li>App Publish in playstore</li>
+<li>Payment getway</li>
 </ul>
 
 
@@ -84,21 +85,19 @@ Internship (Mobile App Developer)</h4>
 <h3 align="left">SKILL:</h3>
 
 <h5>Apps Development </h5>
-
-➢ Flutter (Framework)
-
-➢ UI Design, Push /in app notification.
-
-➢ Getx, Provider, Firebase, API,
-
-➢ App Testing, Troubleshooting.
-
-➢ Publish app to play store.
-
-➢ API making by Express.js
-
-➢ Visual Studio Code, Android Studio, git
-
+Apps Development 
+ Flutter (Framework) 
+ Clean Architecture by getx
+ UI Design ad implement user Interface 
+ Push /in app notification.
+ Getx, Provider, 
+ Hive, SQLite, Firebase,
+ Troubleshooting.
+ Publish app to play store.
+ Android Studio, Xcode
+ Git. Version Control
+ REST API integration, payment getaway
+ API making by Express.js and MYSQL
 
  <h5> Web Development </h5>
  

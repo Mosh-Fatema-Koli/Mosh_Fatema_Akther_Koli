@@ -90,32 +90,31 @@ Internship (Mobile App Developer)</h4>
 <h3 align="left">SKILL:</h3>
 
 <h5>Apps Development </h5>
-Apps Development 
 
 
- Flutter (Framework) 
+➢ Flutter (Framework) 
 
- Clean Architecture by getx
+➢ Clean Architecture by getx
 
- UI Design ad implement user Interface 
+➢ UI Design ad implement user Interface 
 
- Push /in app notification.
+➢➢ Push /in app notification.
 
- Getx, Provider, 
+➢ Getx, Provider, 
 
- Hive, SQLite, Firebase,
+➢ Hive, SQLite, Firebase,
 
- Troubleshooting.
+➢ Troubleshooting.
 
- Publish app to play store.
+➢ Publish app to play store.
 
- Android Studio, Xcode
+➢ Android Studio, Xcode
 
- Git. Version Control
+➢ Git. Version Control
 
- REST API integration, payment getaway
+➢ REST API integration, payment getaway
 
- API making by Express.js and MYSQL
+➢ API making by Express.js and MYSQL
 
  <h5> Web Development </h5>
  

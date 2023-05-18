@@ -91,17 +91,30 @@ Internship (Mobile App Developer)</h4>
 
 <h5>Apps Development </h5>
 Apps Development 
+
+
  Flutter (Framework) 
+
  Clean Architecture by getx
+
  UI Design ad implement user Interface 
+
  Push /in app notification.
+
  Getx, Provider, 
+
  Hive, SQLite, Firebase,
+
  Troubleshooting.
+
  Publish app to play store.
+
  Android Studio, Xcode
+
  Git. Version Control
+
  REST API integration, payment getaway
+
  API making by Express.js and MYSQL
 
  <h5> Web Development </h5>

@@ -42,19 +42,18 @@ Git - https://github.com/Mosh-Fatema-Koli
 
 <h3 align="left">PROJECT:</h3>
 
-Instasure Customer App ( REST API with provider )
+<p>Instasure Customer App ( REST API with provider )</p>
         Link: https://play.google.com/store/apps/details?id=com.instasure
-Iflex  ( REST API with Getx )
+<p>Iflex  ( REST API with Getx )</p>
        Link: https://github.com/Mosh-Fatema-Koli/iflex
-Celebritygame_net( REST API with Getx )
+<p>Celebritygame_net( REST API with Getx ) </p>
        Link: https://github.com/Mosh-Fatema-Koli/celebritygame_net
-Story Book (Firebase),
+<p>Story Book (Firebase),</p>
        Link: https://github.com/Mosh-Fatema-Koli/story_book
-Texi (Firebase),
+<p>Texi (Firebase),</p>
        Link: https://github.com/Mosh-Fatema-Koli/rider_app
 
-Shop App ,WhatsApp clone, Social Media App,
-       Hotel booking --- ( UI Design )
+<p>Shop App ,WhatsApp clone, Social Media App, Hotel booking --- ( UI Design )</p>
 
 
 

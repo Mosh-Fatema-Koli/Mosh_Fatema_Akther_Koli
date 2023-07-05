@@ -47,8 +47,8 @@ Git - https://github.com/Mosh-Fatema-Koli
      Link: https://play.google.com/store/apps/details?id=com.instasure
   
 
-    Iflex  ( REST API with Getx )
-    Link: https://github.com/Mosh-Fatema-Koli/iflex
+     Iflex  ( REST API with Getx )
+     Link: https://github.com/Mosh-Fatema-Koli/iflex
 
        
      Celebritygame_net( REST API with Getx )
@@ -59,7 +59,7 @@ Git - https://github.com/Mosh-Fatema-Koli
      Link: https://github.com/Mosh-Fatema-Koli/story_book
 
 
-    Texi (Firebase),
+     Texi (Firebase),
      Link: https://github.com/Mosh-Fatema-Koli/rider_app
 
 

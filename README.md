@@ -42,11 +42,11 @@ Git - https://github.com/Mosh-Fatema-Koli
 
 <h3 align="left">PROJECT:</h3>
 
-<p>Instasure Customer App ( REST API with provider )</p>
-        Link: https://play.google.com/store/apps/details?id=com.instasure
+    <p>Instasure Customer App ( REST API with provider )</p>
+ Link: https://play.google.com/store/apps/details?id=com.instasure
         
-<p>Iflex  ( REST API with Getx )</p>
-       Link: https://github.com/Mosh-Fatema-Koli/iflex
+  <p>Iflex  ( REST API with Getx )</p>
+Link: https://github.com/Mosh-Fatema-Koli/iflex
        
 <p>Celebritygame_net( REST API with Getx ) </p>
        Link: https://github.com/Mosh-Fatema-Koli/celebritygame_net

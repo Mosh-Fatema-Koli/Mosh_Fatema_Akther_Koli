@@ -63,7 +63,7 @@ Git - https://github.com/Mosh-Fatema-Koli
      Link: https://github.com/Mosh-Fatema-Koli/rider_app
 
 
-    Shop App ,WhatsApp clone, Social Media App, Hotel booking --- ( UI Design )
+     Shop App ,WhatsApp clone, Social Media App, Hotel booking --- ( UI Design )
 
 
 

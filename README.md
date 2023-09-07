@@ -8,7 +8,7 @@
 #                                    Mosh. Fatema Akhter Koli
 
 
-<p>Programmer || Flutter App Developer</p>
+<p>Programmer || Project Manager || Flutter App Developer</p>
 
 
 Email - fatemakoli58@gmail.com.

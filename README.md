@@ -69,6 +69,25 @@ Git - https://github.com/Mosh-Fatema-Koli
 
 <h3 align="left">JOB EXPERIENCE:</h3>
 
+<h3>Innova Infosys Ltd; </h3>
+  
+Project Manager and Mobile App Developer (Flutter)
+
+
+Innova Infosys is the It and Software Company.
+
+➢ Project Management .
+
+➢ Designed, implemented, and tested Flutter and Dart code using Provider pattern for IOS, Android .
+
+➢ Designed and created custom features including scrolling selectors and data entries.
+
+➢ Utilized and designed custom API.
+
+➢ Troubleshooting  ,push notification added
+
+➢ Developed code using Dart programming 
+
 
 <h3>Instasure Ltd; </h3>
   

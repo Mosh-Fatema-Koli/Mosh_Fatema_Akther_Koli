@@ -69,6 +69,34 @@ Git - https://github.com/Mosh-Fatema-Koli
 
 <h3 align="left">JOB EXPERIENCE:</h3>
 
+WORK EXPERIENCE
+Instasure Ltd | Programmer (Flutter)
+February 2022-December 2023    ||   Full Time   ||    Bangladesh - Banani
+Designed, implemented Flutter Dart code using Provider & Getx  pattern for IOS, Android .
+Maintaining App.
+Utilized third-party APIs to fetch and display product data and images , Payment Get way, Social media Authentication
+Troubleshooting , push notification added
+Innova Infosys | Mobile App Developer
+August 2022 - December 2023    ||   Part Time   ||    Bangladesh    ||   Remote
+Designed, implemented Flutter Dart code using  Getx pattern for IOS, Android .
+Utilized third-party APIs to fetch and display product data and images ,
+IXYX  Ltd  |  Programmer   (Flutter)
+December 2023- Present    ||    Part Time Freelancer ||   India   ||    Remote
+Designed, implemented Flutter Dart code using Provider & Getx  pattern for IOS, Android .
+Maintaining App.
+Utilized third-party APIs to fetch and display product data and images , Payment Get way, Social media Authentication
+Troubleshooting , push notification added
+Safe The Children   |   Software Engineer (Flutter)
+December 2023- Present || Full Time
+Designed, implemented Flutter Dart code using Provider & Getx  pattern for IOS, Android .
+Maintaining App.
+Utilized third-party APIs to fetch and display product data and images , Payment Get way, Social media Authentication
+Troubleshooting , push notification added
+Designed, implemented Flutter Dart code using Provider & Getx pattern for IOS, Android .
+Maintaining App.
+Utilized third-party APIs to fetch and display product data and images , Payment Get way, Social media Authentication
+Troubleshooting , push notification added
+
 <h3>Innova Infosys Ltd; </h3>
   
 Project Manager and Mobile App Developer (Flutter)

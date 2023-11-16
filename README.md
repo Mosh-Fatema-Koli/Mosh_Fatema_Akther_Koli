@@ -43,41 +43,37 @@ Git - https://github.com/Mosh-Fatema-Koli
 <h3 align="left">PROJECT:</h3>
 
     
-Instasure Customer App ( REST API with provider )
+➢ Instasure Customer App ( REST API with provider )
         Link: https://play.google.com/store/apps/details?id=com.instasure
         
-Flexiload ( REST API with Getx )
+➢ Flexiload ( REST API with Getx )
         Link: https://github.com/Mosh-Fatema-Koli/iflex
         
-Innova  Shop  ( REST API with Getx )
+➢ Innova  Shop  ( REST API with Getx )
         Link: https://github.com/Mosh-Fatema-Koli/celebritygame_ne
         
-Hook Store ( REST API with Getx )
-        Link: https://play.google.com/store/apps/details?id=com.innovainfosys.   
-                  hookstore&pcampaignid=web_share
+➢ Hook Store ( REST API with Getx )
+        Link: https://play.google.com/store/apps/details?id=com.innovainfosys.hookstore&pcampaignid=web_share
                   
-Inno Shop ( REST API with Getx ),
-        Link: https://play.google.com/store/apps/details?id=com.innovainfosys. 
-                 ecomareceInnova&pcampaignid=web_share
+➢ Inno Shop ( REST API with Getx ),
+        Link: https://play.google.com/store/apps/details?id=com.innovainfosys.ecomareceInnova&pcampaignid=web_share
                  
-Xoss shop ( REST API with Getx),
-       Link: https://play.google.com/store/apps/details?id=com.innovainfosys.                             
-                  xossShop&pcampaignid=web_share
+➢ Xoss shop ( REST API with Getx),
+       Link: https://play.google.com/store/apps/details?id=com.innovainfosys.xossShop&pcampaignid=web_share
                   
-Innova POS ( WebVew App ) 
-        Link:  https://play.google.com/store/apps/details?    
-                   i﻿d=com.innovainfosys.ecomareceInnova&pcampaignid=web_share
+➢ Innova POS ( WebVew App ) 
+        Link:  https://play.google.com/store/apps/details?i﻿d=com.innovainfosys.ecomareceInnova&pcampaignid=web_share
                    
-Chatting App( Socket.io and rest API used telegram API),
+➢ Chatting App( Socket.io and rest API used telegram API),
        Link: https://github.com/Mosh-Fatema-Koli/wow_chat_app
        
-Restaurant  ( REST API with Getx )
+➢ Restaurant  ( REST API with Getx )
       Link: https://github.com/Mosh-Fatema-Koli/iflex
       
-Finance App ( REST API with Getx )
+➢ Finance App ( REST API with Getx )
       Link: https://github.com/Mosh-Fatema-Koli/celebritygame_net
       
-Shop App ,WhatsApp clone, Social Media App, Taxi App
+➢ Shop App ,WhatsApp clone, Social Media App, Taxi App
        Hotel booking --- ( UI Design )
 
 

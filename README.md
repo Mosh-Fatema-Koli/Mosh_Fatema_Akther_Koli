@@ -47,7 +47,7 @@ Git - https://github.com/Mosh-Fatema-Koli
      Link: https://play.google.com/store/apps/details?id=com.instasure
   
 
-     Iflex  ( REST API with Getx )
+     Iflex  ( Mobile recharge app )
      Link: https://github.com/Mosh-Fatema-Koli/iflex
 
        

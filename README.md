@@ -229,4 +229,4 @@ Instasure is the Insurance management software utilized by Universities ,Travels
 
 </p>
 
-<h3 align="left">Demo Project</h3>
+<h3 align="left">Demo Project:</h3>

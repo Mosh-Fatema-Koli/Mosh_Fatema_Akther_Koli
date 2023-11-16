@@ -75,6 +75,8 @@ Git - https://github.com/Mosh-Fatema-Koli
   
 Software Engineer (Flutter)
 
+December 2023- Present || Full Time
+
 ➢ Designed, implemented, and tested Flutter and Dart code using Provider pattern for IOS, Android .
 
 ➢ Designed and created custom features including scrolling selectors and data entries.
@@ -88,7 +90,9 @@ Software Engineer (Flutter)
 
 <h3>Instasure Ltd; </h3>
   
-Programmer (Mobile App Developer)
+Programmer (Flutter)
+
+February 2022-December 2023    ||   Full Time   ||    Bangladesh - Banani
 
 
 Instasure is the Insurance management software utilized by Universities ,Travels, Mobile Phone.
@@ -110,6 +114,7 @@ Instasure is the Insurance management software utilized by Universities ,Travels
   
 Part Time (Mobile App development)
 
+August 2022 - December 2023    ||   Part Time   ||    Bangladesh    ||   Remote
 
 
 ➢ Designed, implemented, and tested Flutter and Dart code using Provider pattern for IOS, Android ..
@@ -124,6 +129,7 @@ Part Time (Mobile App development)
   
 Freelancer (Flutter Flow)
 
+March 2023 - November 2023 ||  Part Time Freelancer   || Singapore || Remote
 
 
 ➢ Designed, implemented, and tested Flutter and Dart code using Provider pattern for IOS, Android ..
@@ -136,6 +142,9 @@ Freelancer (Flutter Flow)
 <h3>DS Legends Pte. Ltd;</h3>
   
 Internship (Mobile App Developer)
+
+October 2021 - December 2021    ||    Part Time   ||   Singapore    ||    Remote
+
 
 ➢ Designed, implemented, and tested Flutter and Dart code using Provider pattern for IOS, Android ..
 

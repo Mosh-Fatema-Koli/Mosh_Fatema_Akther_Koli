@@ -74,7 +74,6 @@ Git - https://github.com/Mosh-Fatema-Koli
 <h3>Safe The Children; </h3>
   
 Software Engineer (Flutter)
-
 December 2023- Present || Full Time
 
 ➢ Designed, implemented, and tested Flutter and Dart code using Provider pattern for IOS, Android .
@@ -91,7 +90,6 @@ December 2023- Present || Full Time
 <h3>Instasure Ltd; </h3>
   
 Programmer (Flutter)
-
 February 2022-December 2023    ||   Full Time   ||    Bangladesh - Banani
 
 
@@ -113,7 +111,6 @@ Instasure is the Insurance management software utilized by Universities ,Travels
 
   
 Part Time (Mobile App development)
-
 August 2022 - December 2023    ||   Part Time   ||    Bangladesh    ||   Remote
 
 
@@ -128,7 +125,6 @@ August 2022 - December 2023    ||   Part Time   ||    Bangladesh    ||   Remote
 
   
 Freelancer (Flutter Flow)
-
 March 2023 - November 2023 ||  Part Time Freelancer   || Singapore || Remote
 
 
@@ -142,7 +138,6 @@ March 2023 - November 2023 ||  Part Time Freelancer   || Singapore || Remote
 <h3>DS Legends Pte. Ltd;</h3>
   
 Internship (Mobile App Developer)
-
 October 2021 - December 2021    ||    Part Time   ||   Singapore    ||    Remote
 
 

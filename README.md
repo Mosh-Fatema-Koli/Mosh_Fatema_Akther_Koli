@@ -168,6 +168,13 @@ Instasure is the Insurance management software utilized by Universities ,Travels
 ➢Developed code using Dart programming
 
 
+<h3>Novo Corgo Services Ltd</h3>
+
+<b>Jr. Executive (Aviation Department)
+   ||   December 2018 - December 2020  </b>
+
+
+
 <h3 align="left">SKILL:</h3>
 
 <h5>Apps Development </h5>

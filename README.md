@@ -1,239 +1,220 @@
+# 👋 Hi, I'm Mosh Fatema Akhter Koli
 
+🚀 **Flutter Developer | Software Engineer | Mobile App Specialist**
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/105162409?v=4" width="200" height="200">
-</p>	
+Highly skilled Flutter Developer with **4+ years of experience** building scalable, high-performance mobile applications. I specialize in **Flutter, Dart, REST APIs, and modern state management** to create efficient and user-friendly mobile solutions.
 
+📍 Dhaka, Bangladesh  
+📧 fatemakoli58@gmail.com  
+📞 +8801302607702  
 
-#                                    Mosh. Fatema Akhter Koli
+🔗 **Connect with me**
+- GitHub: https://github.com/fatemakoli58
+- LinkedIn: https://www.linkedin.com/in/mosh-fatema-akhter-koli-56b4881a4/
 
+---
 
-<p>Programmer   ||    Software Engineer   ||   Flutter App Developer</p>
+# 🚀 About Me
 
+- 💼 Jr. Software Engineer at **Save The Children International**
+- 📱 4+ years experience in **Flutter Mobile Development**
+- 🧠 Strong knowledge in **Clean Architecture & Scalable Apps**
+- ⚡ Experienced with **REST API, Firebase, GraphQL**
+- 🎯 Passionate about **building impactful applications**
 
-Email - fatemakoli58@gmail.com.
+---
 
-Phone – 01302607702.
+# 🛠 Tech Stack
 
-Present Address – House # 12, Road # 16, Adabor, Dhaka 1207.
+### Mobile Development
+Flutter • Dart • Swift • Kotlin
 
-Permanent Address – vill - Parkartikpasa, P.O – Srirampur- 8601, P.S - Patuakhali Sadar, Dist.-Patuakhali.
+### State Management
+GetX • Riverpod • Bloc • Provider
 
-LinkedIn Id - www.linkedin.com/in/moshfatema-akhter-koli-56b4881a
+### Databases
+SQLite • Hive • Firebase Firestore • Realtime Database • Get Storage
 
-Git - https://github.com/Mosh-Fatema-Koli
+### API & Integrations
+REST API • GraphQL • Firebase • Payment Gateway • Google Maps • Localization
 
-<h3 align="left">SUMMARY:</h3>
+### UI / UX
+Figma • Adobe XD • Responsive UI • Adaptive Design • Clean Architecture
 
-<p>A Flutter developer with more than 3 years of experience, skilled in building high-quality cross-platform mobile apps and creating intuitive user interfaces. Proficient in Dart and experienced in teamwork and problem-solving. Strong communication skills, attention to detail, and a proactive approach to tasks make me a reliable and dependable member of any development team. Deep understanding of the Flutter framework and mobile app development process, with a passion for creating innovative and engaging apps. Always looking for opportunities to continue learning and growing as a developer. </p>
+### Tools
+Git • GitHub • CI/CD • Jira • Trello • Agile Scrum
 
+---
 
-<b>I am good at a few things:</b>
-<ul>
-<li>XD Design convert to flutter</li>
-<li>Figma Design Convert to Flutter</li>
-<li>Making Flutter Full app</li>
-<li>Doing Troubleshotting on Flutter</li>
-<li>Push Notification added/In app notification added</li>
-<li>App Publish in playstore</li>
-<li>Payment getway</li>
-</ul>
+# 💼 Work Experience
 
+## Save The Children International
+**Jr. Software Engineer**  
+📅 December 2023 – Present
 
-<h3 align="left">PROJECT:</h3>
+Key Contributions:
 
-    
-➢ Instasure Customer App ( REST API with provider )
+- Led development of mission-driven mobile apps:
+  - Stay Safe
+  - Box of Wonders
+  - UFind
+  - Your Voice
+  - Myanmar Cash Distribution
+  - Fleet Management System
+  - Feedback Response Mechanism
+  - Supply Chain Management System
 
-        Link: https://play.google.com/store/apps/details?id=com.instasure
-        
-➢ Flexiload ( REST API with Getx )
+- Built scalable Flutter applications using **GetX, Bloc, Provider**
+- Integrated **RESTful & real-time APIs**
+- Implemented **pixel-perfect responsive UI**
+- Managed **App Store & Play Store deployment**
 
-        Link: https://github.com/Mosh-Fatema-Koli/iflex
-        
-➢ Innova  Shop  ( REST API with Getx )
+---
 
-        Link: https://github.com/Mosh-Fatema-Koli/celebritygame_ne
-        
-➢ Hook Store ( REST API with Getx )
+## Instasure Ltd
+**Programmer**  
+📅 February 2022 – November 2023
 
-        Link: https://play.google.com/store/apps/details?id=com.innovainfosys.hookstore&pcampaignid=web_share
-                  
-➢ Inno Shop ( REST API with Getx ),
+Promotions:
+- Jr Programmer (2022)
+- Programmer (2023)
 
-        Link: https://play.google.com/store/apps/details?id=com.innovainfosys.ecomareceInnova&pcampaignid=web_share
-                 
-➢ Xoss shop ( REST API with Getx),
+Achievements:
 
-       Link: https://play.google.com/store/apps/details?id=com.innovainfosys.xossShop&pcampaignid=web_share
-                  
-➢ Innova POS ( WebVew App ) 
+- Developed **Instasure & iFlex apps**
+- Implemented:
+  - Secure payment gateway
+  - Push notifications
+  - Social authentication
+  - REST API integration
+- Improved app stability by fixing critical bugs
+- Ensured **App Store & Google Play compliance**
 
-        Link:  https://play.google.com/store/apps/details?i﻿d=com.innovainfosys.ecomareceInnova&pcampaignid=web_share
-                   
-➢ Chatting App( Socket.io and rest API used telegram API),
+---
 
-       Link: https://github.com/Mosh-Fatema-Koli/wow_chat_app
-       
-➢ Restaurant  ( REST API with Getx )
+## DS Legends Pte Ltd (Singapore)
+**Software Engineering Intern**  
+📅 October 2021 – December 2021
 
-      Link: https://github.com/Mosh-Fatema-Koli/iflex
-      
-➢ Finance App ( REST API with Getx )
+- Built Flutter UI components
+- Integrated REST APIs
+- Worked with development team remotely
 
-      Link: https://github.com/Mosh-Fatema-Koli/celebritygame_net
-      
-➢ Shop App ,WhatsApp clone, Social Media App, Taxi App, Hotel booking --- ( UI Design )
+---
 
+# 📱 Notable Projects
 
+### 🌍 Stay Safe
+Global safety awareness mobile application.
 
-<h3 align="left">JOB EXPERIENCE:</h3>
+**Tech:** Flutter  
+📱 Google Play | App Store
 
+---
 
+### 🎁 Box of Wonders
+Child-friendly multi-language educational application.
 
-<h3>Safe The Children; </h3>
-  
-<b>Software Engineer (Flutter)
-||  December 2023- Present || Full Time</b>
+**Tech:** Flutter  
+📱 Google Play
 
-➢ Designed, implemented, and tested Flutter and Dart code using Provider pattern for IOS, Android .
+---
 
-➢ Designed and created custom features including scrolling selectors and data entries.
+### 🗣 Your Voice
+A child reporting and support platform.
 
-➢ Utilized and designed custom API.
+**Tech:** Flutter  
+📱 Google Play | App Store
 
-➢ Troubleshooting  ,push notification added
+---
 
-➢ Developed code using Dart programming 
+### 📊 Feedback Response Mechanism
+Complaint & response management system.
 
+**Tech:** Flutter  
+📱 Google Play
 
-<h3>Instasure Ltd; </h3>
-  
-<b> Programmer (Flutter)
-  ||   February 2022-December 2023    ||   Full Time   ||    Bangladesh - Banani</b>
+---
 
+### 💰 Instasure
+Insurance service mobile application.
 
-Instasure is the Insurance management software utilized by Universities ,Travels, Mobile Phone.
+**Tech:** Flutter  
+📱 Google Play
 
+---
 
-➢Designed, implemented, and tested Flutter and Dart code using Provider pattern for IOS, Android .
+### 🛒 Hook Store
+E-commerce mobile application.
 
-➢Designed and created custom features including scrolling selectors and data entries.
+**Tech:** Flutter  
+📱 Google Play
 
-➢Utilized and designed custom API.
+---
 
-➢Troubleshooting  ,push notification added
+### 💬 Chatting App
+Real-time messaging app using **Socket.io & Telegram API**
 
-➢Developed code using Dart programming 
+**Tech:** Flutter  
+📂 GitHub Project
 
+---
 
-<h3>Innova Infosys Ltd;</h3>
+### 🍽 Restaurant App (India)
+Restaurant ordering application.
 
-  
-<b>Part Time (Mobile App development)
-   ||   August 2022 - December 2023    ||   Part Time   ||    Bangladesh    ||   Remote</b>
+**Tech:** Flutter  
+Features:
+- GraphQL API
+- RazorPay Payment
+- GetX State Management
 
+---
 
-➢ Designed, implemented, and tested Flutter and Dart code using Provider pattern for IOS, Android ..
+### 🧾 Innova POS
+POS system using WebView integration.
 
-➢Utilized and designed custom API.
+**Tech:** Flutter  
+📱 Google Play
 
-➢Developed code using Dart programming
+---
 
+# 🎓 Education
 
-<h3>Ux Living Lab;</h3>
+🎓 **BSc in Computer Science & Engineering**  
+Bangladesh University  
 
-  
-<b>Freelancer (Flutter Flow)
-   ||  March 2023 - November 2023 ||  Part Time Freelancer   || Singapore || Remote</b>
+📊 CGPA: **3.64 / 4.00**  
+📅 2018 – 2021
 
+---
 
-➢ Designed, implemented, and tested Flutter and Dart code using Provider pattern for IOS, Android ..
+# 🏆 Awards
 
-➢Utilized and designed custom API.
+🥇 **Best New Recruit Award – 2023**  
+Save The Children International
 
-➢Developed code using Dart programming
+---
 
+# 📜 Certifications
 
-<h3>DS Legends Pte. Ltd;</h3>
-  
-<b>Internship (Mobile App Developer)
-   ||   October 2021 - December 2021    ||    Part Time   ||   Singapore    ||    Remote</b>
+- BASIS Mobile App Development Program (Flutter)
+- Learning & Earning Development Project
+- Studio of Creative Arts – Radio & TV Presentation
 
+---
 
-➢ Designed, implemented, and tested Flutter and Dart code using Provider pattern for IOS, Android ..
+# 🌎 Languages
 
-➢Utilized and designed custom API.
+- English
+- Bangla
 
-➢Developed code using Dart programming
+---
 
+# 🤝 Soft Skills
 
-<h3>Novo Corgo Services Ltd</h3>
+Communication • Teamwork • Problem Solving • Time Management • Adaptability • Critical Thinking
 
-<b>Jr. Executive (Aviation Department)
-   ||   December 2018 - December 2020  </b>
+---
 
-
-
-<h3 align="left">SKILL:</h3>
-
-<h5>Apps Development </h5>
-
-
-➢ Flutter (Framework) 
-
-➢ Clean Architecture by getx
-
-➢ UI Design ad implement user Interface 
-
-➢ Push /in app notification.
-
-➢ Getx, Provider, 
-
-➢ Hive, SQLite, Firebase,
-
-➢ Troubleshooting.
-
-➢ Publish app to play store.
-
-➢ Android Studio, Xcode
-
-➢ Git. Version Control
-
-➢ REST API integration, payment getaway
-
-➢ API making by Express.js and MYSQL
-
- <h5> Web Development </h5>
- 
-➢ Django (Framework)
-
-➢ Bootstrap, JavaScript,
-
-➢ SQLite
-
-➢ Visual Studio Code, git 
-
-
-
-<h5> Programming Language </h5>
-➢ C, C++, Java, JavaScript, Python, Dart, Nodejs. 
-
-
-<h3 align="left">EDUCATION:</h3>
-<p>Bachelor of Science in CSE, Bangladesh University, Dhaka, CGPA - 3.64 (out of 4.00) </p>
-<p>Higher Secondary Certificate (H.S.C), Queens School & College, Dhaka, Science, GPA- 4.50 (out of 5.00)
-</p>
-<p>Secondary School Certificate (S.S.C), Srijanee Bidyaniketan, Patuakhali, Science, GPA: 5.00 (out of 5.00)</p>
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/Mosh-Fatema-Koli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"  height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mosh-fatema-akhter-koli-56b4881a4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100085509589500" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="" height="30" width="40" /></a>
-
-</p>
-
-<h3 align="left">Demo Project:</h3>
+⭐ *Feel free to explore my repositories and connect with me!*

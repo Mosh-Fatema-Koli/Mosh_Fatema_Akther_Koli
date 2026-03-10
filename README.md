@@ -1,220 +1,214 @@
-# 👋 Hi, I'm Mosh Fatema Akhter Koli
+<h1 align="center">Hi 👋, I'm Fatema Akhter Koli</h1>
 
-🚀 **Flutter Developer | Software Engineer | Mobile App Specialist**
+<h3 align="center">
+Flutter Developer | Software Engineer | Mobile App Specialist
+</h3>
 
-Highly skilled Flutter Developer with **4+ years of experience** building scalable, high-performance mobile applications. I specialize in **Flutter, Dart, REST APIs, and modern state management** to create efficient and user-friendly mobile solutions.
-
-📍 Dhaka, Bangladesh  
-📧 fatemakoli58@gmail.com  
-📞 +8801302607702  
-
-🔗 **Connect with me**
-- GitHub: https://github.com/fatemakoli58
-- LinkedIn: https://www.linkedin.com/in/mosh-fatema-akhter-koli-56b4881a4/
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter+Developer;Mobile+App+Engineer;Clean+Architecture+Advocate;4%2B+Years+Experience;Building+Scalable+Apps&center=true&width=500&height=50">
+</p>
 
 ---
 
-# 🚀 About Me
+# 👩‍💻 About Me
 
-- 💼 Jr. Software Engineer at **Save The Children International**
-- 📱 4+ years experience in **Flutter Mobile Development**
-- 🧠 Strong knowledge in **Clean Architecture & Scalable Apps**
-- ⚡ Experienced with **REST API, Firebase, GraphQL**
-- 🎯 Passionate about **building impactful applications**
+🚀 Flutter Developer with **4+ years of experience** building scalable mobile applications.
+
+💡 Passionate about **clean architecture, high performance apps, and user-centric design.**
+
+🏢 **Jr Software Engineer at Save The Children International**
+
+📍 Dhaka, Bangladesh
 
 ---
 
-# 🛠 Tech Stack
+# 🔗 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/fatemakoli58">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mosh-fatema-akhter-koli-56b4881a4/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:fatemakoli58@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+# 🚀 Tech Stack
 
 ### Mobile Development
-Flutter • Dart • Swift • Kotlin
+![Flutter](https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-blue?style=for-the-badge&logo=dart)
+![Swift](https://img.shields.io/badge/Swift-orange?style=for-the-badge&logo=swift)
+![Kotlin](https://img.shields.io/badge/Kotlin-purple?style=for-the-badge&logo=kotlin)
 
 ### State Management
-GetX • Riverpod • Bloc • Provider
+GetX • Bloc • Riverpod • Provider
 
 ### Databases
-SQLite • Hive • Firebase Firestore • Realtime Database • Get Storage
+Firebase • SQLite • Hive • Firestore
 
-### API & Integrations
-REST API • GraphQL • Firebase • Payment Gateway • Google Maps • Localization
-
-### UI / UX
-Figma • Adobe XD • Responsive UI • Adaptive Design • Clean Architecture
+### API Integration
+REST API • GraphQL • Firebase • Payment Gateway
 
 ### Tools
-Git • GitHub • CI/CD • Jira • Trello • Agile Scrum
+Git • GitHub • CI/CD • Figma • Adobe XD • Jira • Trello
 
 ---
 
-# 💼 Work Experience
-
-## Save The Children International
-**Jr. Software Engineer**  
-📅 December 2023 – Present
-
-Key Contributions:
-
-- Led development of mission-driven mobile apps:
-  - Stay Safe
-  - Box of Wonders
-  - UFind
-  - Your Voice
-  - Myanmar Cash Distribution
-  - Fleet Management System
-  - Feedback Response Mechanism
-  - Supply Chain Management System
-
-- Built scalable Flutter applications using **GetX, Bloc, Provider**
-- Integrated **RESTful & real-time APIs**
-- Implemented **pixel-perfect responsive UI**
-- Managed **App Store & Play Store deployment**
-
----
-
-## Instasure Ltd
-**Programmer**  
-📅 February 2022 – November 2023
-
-Promotions:
-- Jr Programmer (2022)
-- Programmer (2023)
-
-Achievements:
-
-- Developed **Instasure & iFlex apps**
-- Implemented:
-  - Secure payment gateway
-  - Push notifications
-  - Social authentication
-  - REST API integration
-- Improved app stability by fixing critical bugs
-- Ensured **App Store & Google Play compliance**
-
----
-
-## DS Legends Pte Ltd (Singapore)
-**Software Engineering Intern**  
-📅 October 2021 – December 2021
-
-- Built Flutter UI components
-- Integrated REST APIs
-- Worked with development team remotely
-
----
-
-# 📱 Notable Projects
+# 📱 Featured Projects
 
 ### 🌍 Stay Safe
 Global safety awareness mobile application.
 
-**Tech:** Flutter  
-📱 Google Play | App Store
+Tech Stack:
+Flutter • REST API • Firebase
 
 ---
 
 ### 🎁 Box of Wonders
-Child-friendly multi-language educational application.
+Child-friendly educational mobile app.
 
-**Tech:** Flutter  
-📱 Google Play
+Features:
+- Multi-language support
+- Interactive learning
+- Kid friendly design
 
 ---
 
 ### 🗣 Your Voice
-A child reporting and support platform.
+Child support reporting system.
 
-**Tech:** Flutter  
-📱 Google Play | App Store
-
----
-
-### 📊 Feedback Response Mechanism
-Complaint & response management system.
-
-**Tech:** Flutter  
-📱 Google Play
+Platforms:
+- Android
+- iOS
 
 ---
 
 ### 💰 Instasure
 Insurance service mobile application.
 
-**Tech:** Flutter  
-📱 Google Play
+Features:
+- Secure payments
+- Push notifications
+- API integration
 
 ---
 
 ### 🛒 Hook Store
-E-commerce mobile application.
+E-commerce Flutter application.
 
-**Tech:** Flutter  
-📱 Google Play
+Features:
+- Product catalog
+- Payment gateway
+- Cart management
 
 ---
 
 ### 💬 Chatting App
-Real-time messaging app using **Socket.io & Telegram API**
+Real-time chat application.
 
-**Tech:** Flutter  
-📂 GitHub Project
-
----
-
-### 🍽 Restaurant App (India)
-Restaurant ordering application.
-
-**Tech:** Flutter  
-Features:
-- GraphQL API
-- RazorPay Payment
-- GetX State Management
+Tech:
+Flutter • Socket.io • Telegram API
 
 ---
 
-### 🧾 Innova POS
-POS system using WebView integration.
+# 💼 Professional Experience
 
-**Tech:** Flutter  
-📱 Google Play
+### Save The Children International
+**Jr Software Engineer**  
+Dec 2023 – Present
+
+Worked on:
+
+- Stay Safe
+- Box of Wonders
+- UFind
+- Your Voice
+- Fleet Management System
+- Supply Chain Management System
+- Myanmar Cash Distribution
+
+Key Responsibilities:
+
+- Flutter architecture design
+- API integration
+- performance optimization
+- responsive UI
+
+---
+
+### Instasure Ltd
+**Programmer**  
+Feb 2022 – Nov 2023
+
+Projects:
+
+- Instasure
+- iFlex
+
+Achievements:
+
+- Payment gateway integration
+- Push notification implementation
+- Social authentication
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=fatemakoli58&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatemakoli58&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fatemakoli58&theme=tokyo-night">
+
+---
+
+# 🏆 Achievements
+
+🥇 Best New Recruit Award – 2023  
+Save The Children International
 
 ---
 
 # 🎓 Education
 
-🎓 **BSc in Computer Science & Engineering**  
-Bangladesh University  
+**BSc in Computer Science & Engineering**
 
-📊 CGPA: **3.64 / 4.00**  
-📅 2018 – 2021
+Bangladesh University
 
----
-
-# 🏆 Awards
-
-🥇 **Best New Recruit Award – 2023**  
-Save The Children International
-
----
-
-# 📜 Certifications
-
-- BASIS Mobile App Development Program (Flutter)
-- Learning & Earning Development Project
-- Studio of Creative Arts – Radio & TV Presentation
+CGPA: **3.64 / 4.00**
 
 ---
 
 # 🌎 Languages
 
-- English
-- Bangla
+English  
+Bangla
 
 ---
 
-# 🤝 Soft Skills
+# 💡 Motto
 
-Communication • Teamwork • Problem Solving • Time Management • Adaptability • Critical Thinking
+"Building impactful applications that make people's lives easier."
 
 ---
 
-⭐ *Feel free to explore my repositories and connect with me!*
+⭐ If you like my work, consider **starring my repositories**!
